@@ -9,4 +9,11 @@ package com.homvee.git;
  * @date 2018-01-31 18:15
  */
 public class Git {
+
+    public static void main(String[] args) {
+        System.out.println("master feature-100000");
+        System.out.println("master feature-200000");
+        System.out.println("master feature-300000");
+    }
+
 }
